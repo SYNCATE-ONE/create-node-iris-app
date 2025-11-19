@@ -37,7 +37,7 @@
     "publish:public": "tsc && npm publish --access public"
   },
   "dependencies": {
-    "@prisma/client": "^6.16.2",
+    "@prisma/client": "^7.0.0",
     "@tsuki-chat/node-iris": "^1.6.45",
     "chalk": "^5.6.2",
     "commander": "^14.0.1",
@@ -45,7 +45,7 @@
     "inquirer": "^12.9.4",
     "nodemon": "^3.1.10",
     "ora": "^9.0.0",
-    "prisma": "^6.16.2"
+    "prisma": "^7.0.0"
   },
   "devDependencies": {
     "@types/fs-extra": "^11.0.4",

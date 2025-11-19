@@ -19,9 +19,9 @@
   },
   "dependencies": {
     "@tsuki-chat/node-iris": "{{NODE_IRIS_VERSION}}",
-    "@prisma/client": "^6.16.2",
+    "@prisma/client": "^7.0.0",
     "dotenv": "^17.2.2",
-    "prisma": "^6.16.2"
+    "prisma": "^7.0.0"
   },
   "devDependencies": {
     "@types/node": "^22.18.3",
