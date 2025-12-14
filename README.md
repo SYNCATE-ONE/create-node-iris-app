@@ -2,7 +2,7 @@
 
 🤖 카카오톡 봇 프로젝트를 위한 Node Iris 템플릿 생성기
 
-[@tsuki-chat/node-iris](https://www.npmjs.com/package/@tsuki-chat/node-iris)를 사용하여 TypeScript 기반의 카카오톡 봇을 빠르게 구축할 수 있도록 도와주는 CLI 도구입니다.
+[@syncate-core/node-iris](https://www.npmjs.com/package/@syncate-core/node-iris)를 사용하여 TypeScript 기반의 카카오톡 봇을 빠르게 구축할 수 있도록 도와주는 CLI 도구입니다.
 
 ## 특징
 
