@@ -1,4 +1,4 @@
-import { Bot, Logger, type LogLevel } from "@tsuki-chat/node-iris";
+import { Bot, Logger, type LogLevel } from "@syncate-core/node-iris";
 import "dotenv/config";
 
 // Import controller classes

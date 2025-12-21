@@ -1,4 +1,4 @@
-import { DeleteMemberController, Logger } from "@tsuki-chat/node-iris";
+import { DeleteMemberController, Logger } from "@syncate-core/node-iris";
 
 @DeleteMemberController
 class CustomDeleteMemberController {

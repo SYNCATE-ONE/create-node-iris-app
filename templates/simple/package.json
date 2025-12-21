@@ -14,7 +14,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@tsuki-chat/node-iris": "{{NODE_IRIS_VERSION}}",
+    "@syncate-core/node-iris": "{{NODE_IRIS_VERSION}}",
     "dotenv": "^17.2.2"
   },
   "devDependencies": {

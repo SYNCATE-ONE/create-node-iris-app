@@ -3,7 +3,7 @@ import {
   Command,
   Logger,
   UnknownController,
-} from "@tsuki-chat/node-iris";
+} from "@syncate-core/node-iris";
 
 @UnknownController
 class CustomUnknownController {

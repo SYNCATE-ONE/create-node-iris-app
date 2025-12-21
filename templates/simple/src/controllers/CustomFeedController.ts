@@ -1,4 +1,4 @@
-import { FeedController, Logger } from "@tsuki-chat/node-iris";
+import { FeedController, Logger } from "@syncate-core/node-iris";
 
 @FeedController
 class CustomFeedController {

@@ -1,4 +1,4 @@
-import { ChatController, Logger } from "@tsuki-chat/node-iris";
+import { ChatController, Logger } from "@syncate-core/node-iris";
 
 @ChatController
 class CustomChatController {

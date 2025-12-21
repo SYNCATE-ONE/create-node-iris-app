@@ -1,4 +1,4 @@
-import { Command, ErrorController, Logger } from "@tsuki-chat/node-iris";
+import { Command, ErrorController, Logger } from "@syncate-core/node-iris";
 
 @ErrorController
 class CustomErrorController {

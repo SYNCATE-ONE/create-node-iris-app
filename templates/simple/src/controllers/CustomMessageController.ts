@@ -9,7 +9,7 @@ import Bot, {
   MessageController,
   Prefix,
   Throttle,
-} from "@tsuki-chat/node-iris";
+} from "@syncate-core/node-iris";
 
 @Prefix(">>")
 @MessageController

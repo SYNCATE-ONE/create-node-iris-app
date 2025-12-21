@@ -5,8 +5,8 @@ import {
   Logger,
   Schedule,
   ScheduleMessage,
-} from "@tsuki-chat/node-iris";
-import { ScheduledMessage } from "@tsuki-chat/node-iris/dist/services/BatchScheduler";
+} from "@syncate-core/node-iris";
+import { ScheduledMessage } from "@syncate-core/node-iris/dist/services/BatchScheduler";
 
 @BatchController
 class CustomBatchController {

@@ -1,4 +1,4 @@
-import { Logger, NewMemberController } from "@tsuki-chat/node-iris";
+import { Logger, NewMemberController } from "@syncate-core/node-iris";
 
 @NewMemberController
 class CustomNewMemberController {

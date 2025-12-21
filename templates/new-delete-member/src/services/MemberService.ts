@@ -1,4 +1,4 @@
-import { ChatContext } from "@tsuki-chat/node-iris";
+import { ChatContext } from "@syncate-core/node-iris";
 import { prisma } from "../prisma";
 
 export class MemberService {

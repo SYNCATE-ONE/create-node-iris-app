@@ -18,7 +18,7 @@
     "db:studio": "prisma studio"
   },
   "dependencies": {
-    "@tsuki-chat/node-iris": "{{NODE_IRIS_VERSION}}",
+    "@syncate-core/node-iris": "{{NODE_IRIS_VERSION}}",
     "@prisma/client": "^6.16.2",
     "dotenv": "^17.2.2",
     "prisma": "^6.16.2"

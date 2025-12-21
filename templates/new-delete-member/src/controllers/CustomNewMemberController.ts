@@ -3,7 +3,7 @@ import {
   Command,
   Logger,
   NewMemberController,
-} from "@tsuki-chat/node-iris";
+} from "@syncate-core/node-iris";
 import { MemberService } from "../services/MemberService";
 
 @NewMemberController

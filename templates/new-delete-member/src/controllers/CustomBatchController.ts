@@ -1,4 +1,9 @@
-import { BatchController, Bot, Logger, Schedule } from "@tsuki-chat/node-iris";
+import {
+  BatchController,
+  Bot,
+  Logger,
+  Schedule,
+} from "@syncate-core/node-iris";
 import { prisma } from "../prisma";
 import { MemberService } from "../services/MemberService";
 
